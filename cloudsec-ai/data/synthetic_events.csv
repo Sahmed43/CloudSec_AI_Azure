@@ -1,0 +1,11 @@
+timestamp,user,ip,action,result,resource,location
+2026-01-15T10:00:00Z,alice,203.0.113.10,login,failure,azure-portal,US
+2026-01-15T10:01:00Z,alice,203.0.113.10,login,failure,azure-portal,US
+2026-01-15T10:02:00Z,alice,203.0.113.10,login,failure,azure-portal,US
+2026-01-15T10:03:00Z,alice,203.0.113.10,login,failure,azure-portal,US
+2026-01-15T10:04:00Z,alice,203.0.113.10,login,failure,azure-portal,US
+2026-01-15T10:10:00Z,bob,198.51.100.20,login,success,azure-portal,US
+2026-01-15T10:20:00Z,bob,198.51.100.21,login,success,azure-portal,DE
+2026-01-15T10:25:00Z,admin,192.0.2.15,role_assignment,success,subscription,US
+2026-01-15T10:30:00Z,carol,192.0.2.18,login,success,storage,US
+2026-01-15T10:40:00Z,admin,192.0.2.15,policy_change,success,key-vault,US
