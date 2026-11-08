@@ -166,10 +166,4 @@ calculate travel speed or enrich IP reputation, and does not automatically remed
 AI can hallucinate; a human must validate outputs. Only send synthetic or authorized data.
 The default example uses RFC 5737 documentation IP ranges and fabricated identities.
 
-## Suggested résumé bullet (only after you have run the Azure integration)
-
-> Developed a Python-based cloud security triage application integrating Azure OpenAI chat
-> completions for AI-assisted incident summaries, with heuristic detections, Streamlit
-> visualization, pytest coverage, and GitHub Actions continuous integration.
-
 MIT license. See [SECURITY.md](SECURITY.md) and [docs/architecture.md](docs/architecture.md).
